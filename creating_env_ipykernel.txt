@@ -1,0 +1,9 @@
+# Definition
+- In order to run the ipykernels through jupyter notebook using the
+environment you've just created you need to follow these steps:
+
+1. You need to activate the environment first.
+2. Run this code: "pip install ipykernel"
+3. Run this to tell jupyter notebook that you are going to use the environment
+for this specific project: "python -m ipykernel install --user --name
+{name of your environment} --display-name "Python {name of environment}"
