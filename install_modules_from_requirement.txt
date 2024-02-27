@@ -1,0 +1,2 @@
+# In order to install all module requirement, you should use the ff code:
+pip install -r requirement.txt
